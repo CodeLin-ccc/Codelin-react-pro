@@ -1,5 +1,4 @@
-# Codelin-react-pro
-### 一个待规划的react项目库
+# 学习webpack
 #### 目录结构
 
 #### 插件使用
